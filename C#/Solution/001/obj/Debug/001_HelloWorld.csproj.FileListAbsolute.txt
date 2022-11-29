@@ -1,0 +1,8 @@
+C:\Study\C#\Solution\001\bin\Debug\001.exe.config
+C:\Study\C#\Solution\001\bin\Debug\001.exe
+C:\Study\C#\Solution\001\bin\Debug\001.pdb
+C:\Study\C#\Solution\001\obj\Debug\001_HelloWorld.csproj.AssemblyReference.cache
+C:\Study\C#\Solution\001\obj\Debug\001_HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Study\C#\Solution\001\obj\Debug\001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Study\C#\Solution\001\obj\Debug\001.exe
+C:\Study\C#\Solution\001\obj\Debug\001.pdb
