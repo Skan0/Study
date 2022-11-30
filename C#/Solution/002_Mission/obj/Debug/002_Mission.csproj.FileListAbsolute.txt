@@ -1,0 +1,8 @@
+C:\Study\C#\Solution\002_Mission\bin\Debug\002_Mission.exe.config
+C:\Study\C#\Solution\002_Mission\bin\Debug\002_Mission.exe
+C:\Study\C#\Solution\002_Mission\bin\Debug\002_Mission.pdb
+C:\Study\C#\Solution\002_Mission\obj\Debug\002_Mission.csproj.AssemblyReference.cache
+C:\Study\C#\Solution\002_Mission\obj\Debug\002_Mission.csproj.SuggestedBindingRedirects.cache
+C:\Study\C#\Solution\002_Mission\obj\Debug\002_Mission.csproj.CoreCompileInputs.cache
+C:\Study\C#\Solution\002_Mission\obj\Debug\002_Mission.exe
+C:\Study\C#\Solution\002_Mission\obj\Debug\002_Mission.pdb

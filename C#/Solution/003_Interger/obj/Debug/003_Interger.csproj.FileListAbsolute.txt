@@ -1,0 +1,8 @@
+C:\Study\C#\Solution\003_Interger\bin\Debug\003_Interger.exe.config
+C:\Study\C#\Solution\003_Interger\bin\Debug\003_Interger.exe
+C:\Study\C#\Solution\003_Interger\bin\Debug\003_Interger.pdb
+C:\Study\C#\Solution\003_Interger\obj\Debug\003_Interger.csproj.AssemblyReference.cache
+C:\Study\C#\Solution\003_Interger\obj\Debug\003_Interger.csproj.SuggestedBindingRedirects.cache
+C:\Study\C#\Solution\003_Interger\obj\Debug\003_Interger.csproj.CoreCompileInputs.cache
+C:\Study\C#\Solution\003_Interger\obj\Debug\003_Interger.exe
+C:\Study\C#\Solution\003_Interger\obj\Debug\003_Interger.pdb
