@@ -1,0 +1,8 @@
+C:\2DGP\Study\C#\Solution\004_Float_Double\bin\Debug\004_Float_Double.exe.config
+C:\2DGP\Study\C#\Solution\004_Float_Double\bin\Debug\004_Float_Double.exe
+C:\2DGP\Study\C#\Solution\004_Float_Double\bin\Debug\004_Float_Double.pdb
+C:\2DGP\Study\C#\Solution\004_Float_Double\obj\Debug\004_Float_Double.csproj.AssemblyReference.cache
+C:\2DGP\Study\C#\Solution\004_Float_Double\obj\Debug\004_Float_Double.csproj.SuggestedBindingRedirects.cache
+C:\2DGP\Study\C#\Solution\004_Float_Double\obj\Debug\004_Float_Double.csproj.CoreCompileInputs.cache
+C:\2DGP\Study\C#\Solution\004_Float_Double\obj\Debug\004_Float_Double.exe
+C:\2DGP\Study\C#\Solution\004_Float_Double\obj\Debug\004_Float_Double.pdb
