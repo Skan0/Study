@@ -17,7 +17,9 @@ float		4byte
 double	8byte
 decimal	16byte
 
+const int와 같이 선언을 하게 되면 값이 더이상 변하지 않는다
 
+enum 식별자로 변수 선언가능하고, 또한 enum변수값은 기존 enum값으로 제한이 가능
 
 
 
