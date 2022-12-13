@@ -1,0 +1,8 @@
+C:\2DGP\Study\C#\Solution\012_WriteLine\bin\Debug\012_WriteLine.exe.config
+C:\2DGP\Study\C#\Solution\012_WriteLine\bin\Debug\012_WriteLine.exe
+C:\2DGP\Study\C#\Solution\012_WriteLine\bin\Debug\012_WriteLine.pdb
+C:\2DGP\Study\C#\Solution\012_WriteLine\obj\Debug\012_WriteLine.csproj.AssemblyReference.cache
+C:\2DGP\Study\C#\Solution\012_WriteLine\obj\Debug\012_WriteLine.csproj.SuggestedBindingRedirects.cache
+C:\2DGP\Study\C#\Solution\012_WriteLine\obj\Debug\012_WriteLine.csproj.CoreCompileInputs.cache
+C:\2DGP\Study\C#\Solution\012_WriteLine\obj\Debug\012_WriteLine.exe
+C:\2DGP\Study\C#\Solution\012_WriteLine\obj\Debug\012_WriteLine.pdb
