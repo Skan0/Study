@@ -1,0 +1,8 @@
+C:\2DGP\Study\C#\Solution\013_ReadLine\bin\Debug\013_ReadLine.exe.config
+C:\2DGP\Study\C#\Solution\013_ReadLine\bin\Debug\013_ReadLine.exe
+C:\2DGP\Study\C#\Solution\013_ReadLine\bin\Debug\013_ReadLine.pdb
+C:\2DGP\Study\C#\Solution\013_ReadLine\obj\Debug\013_ReadLine.csproj.AssemblyReference.cache
+C:\2DGP\Study\C#\Solution\013_ReadLine\obj\Debug\013_ReadLine.csproj.SuggestedBindingRedirects.cache
+C:\2DGP\Study\C#\Solution\013_ReadLine\obj\Debug\013_ReadLine.csproj.CoreCompileInputs.cache
+C:\2DGP\Study\C#\Solution\013_ReadLine\obj\Debug\013_ReadLine.exe
+C:\2DGP\Study\C#\Solution\013_ReadLine\obj\Debug\013_ReadLine.pdb
