@@ -52,6 +52,7 @@ namespace _013_ReadLine
                 //readkey에 true값을 넣으면 입력한 문자가 보이지 않는다
                 Console.WriteLine($"\n{info.KeyChar}");
                 Console.WriteLine($"\n{info.Modifiers}");
+                d
             }
         }
     }

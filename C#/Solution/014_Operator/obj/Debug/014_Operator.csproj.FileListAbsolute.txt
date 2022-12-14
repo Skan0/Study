@@ -1,0 +1,8 @@
+C:\2DGP\Study\C#\Solution\014_Operator\bin\Debug\014_Operator.exe.config
+C:\2DGP\Study\C#\Solution\014_Operator\bin\Debug\014_Operator.exe
+C:\2DGP\Study\C#\Solution\014_Operator\bin\Debug\014_Operator.pdb
+C:\2DGP\Study\C#\Solution\014_Operator\obj\Debug\014_Operator.csproj.AssemblyReference.cache
+C:\2DGP\Study\C#\Solution\014_Operator\obj\Debug\014_Operator.csproj.SuggestedBindingRedirects.cache
+C:\2DGP\Study\C#\Solution\014_Operator\obj\Debug\014_Operator.csproj.CoreCompileInputs.cache
+C:\2DGP\Study\C#\Solution\014_Operator\obj\Debug\014_Operator.exe
+C:\2DGP\Study\C#\Solution\014_Operator\obj\Debug\014_Operator.pdb
