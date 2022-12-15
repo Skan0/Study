@@ -1,0 +1,8 @@
+C:\2DGP\Study\C#\Solution\017_Logic\bin\Debug\017_Logic.exe.config
+C:\2DGP\Study\C#\Solution\017_Logic\bin\Debug\017_Logic.exe
+C:\2DGP\Study\C#\Solution\017_Logic\bin\Debug\017_Logic.pdb
+C:\2DGP\Study\C#\Solution\017_Logic\obj\Debug\017_Logic.csproj.AssemblyReference.cache
+C:\2DGP\Study\C#\Solution\017_Logic\obj\Debug\017_Logic.csproj.SuggestedBindingRedirects.cache
+C:\2DGP\Study\C#\Solution\017_Logic\obj\Debug\017_Logic.csproj.CoreCompileInputs.cache
+C:\2DGP\Study\C#\Solution\017_Logic\obj\Debug\017_Logic.exe
+C:\2DGP\Study\C#\Solution\017_Logic\obj\Debug\017_Logic.pdb

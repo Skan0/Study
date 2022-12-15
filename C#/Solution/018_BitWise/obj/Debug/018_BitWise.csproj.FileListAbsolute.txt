@@ -1,0 +1,8 @@
+C:\2DGP\Study\C#\Solution\018_BitWise\bin\Debug\018_BitWise.exe.config
+C:\2DGP\Study\C#\Solution\018_BitWise\bin\Debug\018_BitWise.exe
+C:\2DGP\Study\C#\Solution\018_BitWise\bin\Debug\018_BitWise.pdb
+C:\2DGP\Study\C#\Solution\018_BitWise\obj\Debug\018_BitWise.csproj.AssemblyReference.cache
+C:\2DGP\Study\C#\Solution\018_BitWise\obj\Debug\018_BitWise.csproj.SuggestedBindingRedirects.cache
+C:\2DGP\Study\C#\Solution\018_BitWise\obj\Debug\018_BitWise.csproj.CoreCompileInputs.cache
+C:\2DGP\Study\C#\Solution\018_BitWise\obj\Debug\018_BitWise.exe
+C:\2DGP\Study\C#\Solution\018_BitWise\obj\Debug\018_BitWise.pdb
