@@ -1,0 +1,8 @@
+C:\2DGP\Study\C#\Solution\022_while_do_while\bin\Debug\022_while_do_while.exe.config
+C:\2DGP\Study\C#\Solution\022_while_do_while\bin\Debug\022_while_do_while.exe
+C:\2DGP\Study\C#\Solution\022_while_do_while\bin\Debug\022_while_do_while.pdb
+C:\2DGP\Study\C#\Solution\022_while_do_while\obj\Debug\022_while_do_while.csproj.AssemblyReference.cache
+C:\2DGP\Study\C#\Solution\022_while_do_while\obj\Debug\022_while_do_while.csproj.SuggestedBindingRedirects.cache
+C:\2DGP\Study\C#\Solution\022_while_do_while\obj\Debug\022_while_do_while.csproj.CoreCompileInputs.cache
+C:\2DGP\Study\C#\Solution\022_while_do_while\obj\Debug\022_while_do_while.exe
+C:\2DGP\Study\C#\Solution\022_while_do_while\obj\Debug\022_while_do_while.pdb

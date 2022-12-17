@@ -1,0 +1,8 @@
+C:\2DGP\Study\C#\Solution\024_For\bin\Debug\024_For.exe.config
+C:\2DGP\Study\C#\Solution\024_For\bin\Debug\024_For.exe
+C:\2DGP\Study\C#\Solution\024_For\bin\Debug\024_For.pdb
+C:\2DGP\Study\C#\Solution\024_For\obj\Debug\024_For.csproj.AssemblyReference.cache
+C:\2DGP\Study\C#\Solution\024_For\obj\Debug\024_For.csproj.SuggestedBindingRedirects.cache
+C:\2DGP\Study\C#\Solution\024_For\obj\Debug\024_For.csproj.CoreCompileInputs.cache
+C:\2DGP\Study\C#\Solution\024_For\obj\Debug\024_For.exe
+C:\2DGP\Study\C#\Solution\024_For\obj\Debug\024_For.pdb

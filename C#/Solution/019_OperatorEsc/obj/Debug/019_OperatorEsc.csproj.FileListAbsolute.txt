@@ -1,0 +1,8 @@
+C:\2DGP\Study\C#\Solution\019_OperatorEsc\bin\Debug\019_OperatorEsc.exe.config
+C:\2DGP\Study\C#\Solution\019_OperatorEsc\bin\Debug\019_OperatorEsc.exe
+C:\2DGP\Study\C#\Solution\019_OperatorEsc\bin\Debug\019_OperatorEsc.pdb
+C:\2DGP\Study\C#\Solution\019_OperatorEsc\obj\Debug\019_OperatorEsc.csproj.AssemblyReference.cache
+C:\2DGP\Study\C#\Solution\019_OperatorEsc\obj\Debug\019_OperatorEsc.csproj.SuggestedBindingRedirects.cache
+C:\2DGP\Study\C#\Solution\019_OperatorEsc\obj\Debug\019_OperatorEsc.csproj.CoreCompileInputs.cache
+C:\2DGP\Study\C#\Solution\019_OperatorEsc\obj\Debug\019_OperatorEsc.exe
+C:\2DGP\Study\C#\Solution\019_OperatorEsc\obj\Debug\019_OperatorEsc.pdb

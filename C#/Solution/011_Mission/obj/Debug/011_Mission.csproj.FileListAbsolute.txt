@@ -1,0 +1,8 @@
+C:\2DGP\Study\C#\Solution\011_Mission\bin\Debug\011_Mission.exe.config
+C:\2DGP\Study\C#\Solution\011_Mission\bin\Debug\011_Mission.exe
+C:\2DGP\Study\C#\Solution\011_Mission\bin\Debug\011_Mission.pdb
+C:\2DGP\Study\C#\Solution\011_Mission\obj\Debug\011_Mission.csproj.AssemblyReference.cache
+C:\2DGP\Study\C#\Solution\011_Mission\obj\Debug\011_Mission.csproj.SuggestedBindingRedirects.cache
+C:\2DGP\Study\C#\Solution\011_Mission\obj\Debug\011_Mission.csproj.CoreCompileInputs.cache
+C:\2DGP\Study\C#\Solution\011_Mission\obj\Debug\011_Mission.exe
+C:\2DGP\Study\C#\Solution\011_Mission\obj\Debug\011_Mission.pdb

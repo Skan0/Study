@@ -1,0 +1,8 @@
+C:\2DGP\Study\C#\Solution\020_if\bin\Debug\020_if.exe.config
+C:\2DGP\Study\C#\Solution\020_if\bin\Debug\020_if.exe
+C:\2DGP\Study\C#\Solution\020_if\bin\Debug\020_if.pdb
+C:\2DGP\Study\C#\Solution\020_if\obj\Debug\020_if.csproj.AssemblyReference.cache
+C:\2DGP\Study\C#\Solution\020_if\obj\Debug\020_if.csproj.SuggestedBindingRedirects.cache
+C:\2DGP\Study\C#\Solution\020_if\obj\Debug\020_if.csproj.CoreCompileInputs.cache
+C:\2DGP\Study\C#\Solution\020_if\obj\Debug\020_if.exe
+C:\2DGP\Study\C#\Solution\020_if\obj\Debug\020_if.pdb
